@@ -17,6 +17,7 @@ In the wild, my technical work bridges the gap between what AI systems look like
 *   Tackling ridiculously complex brioche knitting patterns.
 *   Reading way too many books (or so I've been told, though I argue there is no such thing as too many books).
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethuthompson/) if you want to chat about decision intelligence, AI safety, or the best way to handle messy real-world data!
 ***
 
 **📚 Selected Publications**
@@ -26,4 +27,3 @@ In the wild, my technical work bridges the gap between what AI systems look like
 *   E. Thompson, C. Rogers, K. Porter, J. Scialla, and R. Valdez, "What the AI Doesn't See: On Fairness Proxies in Medical AI," in *AI for a Just World: Power, Liberation, and the People Left Behind*, Chapman & Hall/CRC Press, 2026. [link](https://doi.org/10.1201/9781003737810)
 *   E. Thompson, A. Tashman, and J. J. Scialla, “Chronic kidney disease–mineral and bone disorder management in 4D: The case for dynamic treatment regime methods to optimize care,” Current Osteoporosis Reports, Mar. 2025 [link](https://doi.org/10.1007/s11914-025-00911-8)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabethuthompson/) if you want to chat about decision intelligence, AI safety, or the best way to handle messy real-world data!
